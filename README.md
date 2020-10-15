@@ -2,7 +2,10 @@
 Using market indices and commodity prices to predict the price of gold using various ML algorithms
 
 ## General Info
-Using various ML algorithms to determine the best algortihms
+* SLV
+* USD/CHN
+* USD/EUR
+* VIX
 
 ## Algorithms
 * Linear Regression
