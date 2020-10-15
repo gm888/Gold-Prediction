@@ -6,6 +6,7 @@ Using market indices and commodity prices to predict the price of gold using var
 * USD/CHN
 * USD/EUR
 * VIX
+* M2
 
 ## Algorithms
 * Linear Regression
